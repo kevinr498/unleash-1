@@ -1,3 +1,0 @@
-DROP DATABASE unleash;
-CREATE DATABASE unleash;
-GRANT ALL PRIVILEGES ON DATABASE unleash TO unleash_user;
